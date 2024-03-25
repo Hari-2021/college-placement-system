@@ -11,7 +11,7 @@
 </head>
 <body>
 
-    <img src="images/homeback1.png" id="img1">
+    <img src="images/homeback1  .png" id="img1">
     <div style="position: absolute; margin-left:56%; margin-top:175px;">
     <img src="images/task.svg" width="430px" style="z-index: 1;">
     </div>
